@@ -1,2 +1,0 @@
-This message goes into output.txt
-Another message goes into output.txt
